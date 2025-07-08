@@ -15,4 +15,4 @@ This is my personal reintroduction to Python using Jupyter Notebooks.  I am foll
    
    3.2 First Steps Towards Programming
    
-5. More Control Flow Tools 
+4. More Control Flow Tools 
