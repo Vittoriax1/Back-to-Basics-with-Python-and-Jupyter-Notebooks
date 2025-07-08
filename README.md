@@ -10,9 +10,11 @@ This is my personal reintroduction to Python using Jupyter Notebooks.  I am foll
       3.1.1 Numbers
    
       3.1.2 Text
+
+      3.1.2.A String Methods
    
       3.1.3. Lists
    
    3.2 First Steps Towards Programming
    
-4. More Control Flow Tools 
+5. More Control Flow Tools 
